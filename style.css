@@ -1,0 +1,143 @@
+#logo {
+    display:block;
+    margin:8px auto;
+    text-align:center;
+    width: 150px;
+}
+
+header{
+    padding:0px; 
+    margin: 0%;
+    border: 0px;
+}
+
+#hr1 {
+    color: #ffd877; 
+    background: #ffd877; 
+    border: 0; 
+    margin: 0;
+    height: 1px;
+}
+
+#linkto { 
+    color:#107777;
+}
+
+#sottotitolo {
+    display: block; 
+    text-align: center; 
+    margin: 0; 
+    padding: 0px;
+    padding-top: 10px;
+    background-color: #fdfbf1; 
+    height: 30px;
+    color: #004d4c;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 10px;
+}
+
+body {
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333333;
+    text-align: center;
+    margin-left: auto;
+}
+
+#titolo {
+    padding: 250px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.content{
+    padding: 200px; 
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: left; 
+    font-size: 13px;
+}
+
+#immagine {
+    width: 600px; 
+    text-align: center; 
+    border-radius: 10px; 
+    box-shadow: 3px 3px 3px #dedede; 
+}
+
+#video {
+    width: 600px; 
+    height: 400px;
+    text-align: center; 
+    border-radius: 10px; 
+    box-shadow: 3px 3px 3px #dedede;
+}
+
+#author {
+    color:#b1b1b1; 
+    text-align: center; 
+    font-size: 12px; 
+    margin-top: 10px; 
+    margin-bottom: 30px;
+}
+
+#feat {
+    color:#b5460f; 
+    font-size: 12px;  
+    padding-left: 10px; 
+    margin-left: 230px;
+    margin-bottom: 40px;
+    text-align: left; 
+    border-left: 1px solid #ffd977;
+}
+
+.ingredients {
+    margin-top: 50px; 
+    margin-right: 700px; 
+    margin-bottom: 10px;
+    margin-left: 200px;
+    font-weight: bold;
+}
+
+#hr2 {
+    color: #c4f3f2; 
+    background: #c4f3f2; 
+    border: 0; 
+    margin: 0;
+    height: 1px;
+    margin-left: 230px;
+    margin-right: 230px;
+}
+
+.titolo_elenco {
+    font-weight: bold; 
+    font-size: 13px; 
+    text-align: left; 
+    padding-left: 230px; 
+    padding-top: 30px;
+}
+
+.elenco {
+    font-size: 13px; 
+    text-align: left; 
+    padding-left: 200px;
+}
+
+li{
+    padding-bottom: 15px;
+    margin-left: 20px;
+}
+
+#istruzioni {
+    font-size: 13px; 
+    text-align: left; 
+    padding-left: 250px;
+}
+
+#read_more {
+    font-size: 13px; 
+    text-align: left; 
+    padding-left: 230px; 
+    margin-top: 30px;
+}
